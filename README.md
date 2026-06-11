@@ -1,5 +1,5 @@
 # MRI-Space-Mission
-MRI Space Mission: A Stepwise Paediatric MRI Training Protocol for Young Children
+## MRI Space Mission: A Stepwise Paediatric MRI Training Protocol for Young Children
 The MRI Space Mission is a child-centred, stepwise paediatric MRI training protocol for young children. The protocol consists of a series of mini-activities that are designed to familiarize young children with the MRI scanner and scanning procedures. Children will be introduced to MRI through reading a picture book, watching videos, and playing games. The paediatric MRI training protocol has been tested with children aged 5 to 8 years old at Nanyang Technological University in Singapore from 2021 to 2026. Our space-themed MRI training protocol was verified to be feasible and effective for children. Successful scan rates were quantified for each imaging sequence according to predefined quality-control criteria, and emotional and attitudinal responses were collected from both children and their parents. The protocol’s structured activities, combined with preparation and reward, effectively reduced anxiety and head motion during scanning, making paediatric MRI research more practical and reliable. However, the results also indicate that further measures may be needed to reduce head motion and improve children’s ability to remain still in future protocols.
 
 ## License
@@ -23,7 +23,7 @@ Wu, Chiao-Yi; Teo, Jia Li; Yap, Michelle Li-Mei; Lin, Hsin-Yu; Yeo, Marilyn Cai 
 ## Protocol Overview
 ![Protocol Diagram](ProtocolOverview.png)
 
-## Abstract (OHBM2026)
+## Poster (OHBM2026)
 [View Full Poster (PDF)](AbstractPoster_MRI_Space_Mission_OHBM2026_.pdf)
 
 ## Contact
