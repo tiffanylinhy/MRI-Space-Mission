@@ -8,8 +8,9 @@ You are free to use, distribute, and adapt the material, provided appropriate cr
 ### Citation
 Please cite this protocol as:
 
-Hsin-Yu Lin, Chiao-Yi Wu, Jia Li Teo, Phoebe Si Qi Chia, Michelle Li-Mei Yap, Marilyn Cai Ling Yeo, Suzy J. Styles, Shen-Hsing Annabel Chen.  
-**"MRI Space Mission: A Stepwise Paediatric MRI Training Protocol for Young Children."**  
-GitHub Repository, 2026.  
-https://github.com/your-username/your-repo
+Lin, H.-Y., Wu, C.-Y., Teo, J. L., Chia, P. S. Q., Yap, M. L.-M., Yeo, M. C. L., Styles, S. J., & Chen, S.-H. A. (2026).  
+**MRI Space Mission: A Stepwise Paediatric MRI Training Protocol for Young Children.**  
+Presented at the 32nd Annual Meeting of the Organization for Human Brain Mapping (OHBM), Bordeaux, France.  
+GitHub Repository, 2026. 
+https://github.com/tiffanylinhy/MRI-Space-Mission
 
