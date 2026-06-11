@@ -23,8 +23,11 @@ Wu, Chiao-Yi; Teo, Jia Li; Yap, Michelle Li-Mei; Lin, Hsin-Yu; Yeo, Marilyn Cai 
 **"MRI Space Mission: A Stepwise Paediatric MRI Training Protocol for Young Children."**  
 DR-NTU (Data), V2. https://doi.org/10.21979/N9/QCVEGB  
 
-## Protocol Figure
-[View Full Diagram (PDF)](AbstractPoster_MRI_Space_Mission_OHBM2026_.pdf)
+## Protocol Overview
+![Protocol Diagram](ProtocolOverview.png)
+
+## Abstract (OHBM2026)
+[View Full Poster (PDF)](AbstractPoster_MRI_Space_Mission_OHBM2026_.pdf)
 
 ## Contact
 For questions or collaboration, please contact:  
