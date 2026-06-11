@@ -22,7 +22,6 @@ Data depository:
 Wu, Chiao-Yi; Teo, Jia Li; Yap, Michelle Li-Mei; Lin, Hsin-Yu; Yeo, Marilyn Cai Ling; Chia, Phoebe Si Qi; Vinas Guasch, Nestor; Chen, S. H. Annabel. (2021).  
 **"MRI Space Mission: A Stepwise Paediatric MRI Training Protocol for Young Children."**  
 DR-NTU (Data), V2. https://doi.org/10.21979/N9/QCVEGB  
-[Download Materials](https://doi.org/10.21979/N9/QCVEGB)
 
 
 ## Contact
