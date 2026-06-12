@@ -16,6 +16,9 @@ https://github.com/tiffanylinhy/MRI-Space-Mission
 ## Protocol Overview
 ![Protocol Diagram](ProtocolOverview.png)
 
+## Video Overview
+[Watch Pediatric MRI Protocol Overview](https://youtu.be/T6iyhLYey_U?si=V_QqErExIoYoyd1k)
+
 ## Protocol Access
 The full protocol is available on [Protocol.io](https://www.protocols.io/private/FB0CE4D429F811F185570A58A9FEAC02).
 
