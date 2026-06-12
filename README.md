@@ -19,15 +19,15 @@ https://github.com/tiffanylinhy/MRI-Space-Mission
 ## Video Overview
 [Watch Pediatric MRI Protocol-MRI Space Mission Overview](https://youtu.be/T6iyhLYey_U?si=V_QqErExIoYoyd1k)
 
+## Poster (OHBM2026)
+[View Full Poster (PDF)](AbstractPoster_MRI_Space_Mission_OHBM2026_.pdf)
+
 ## Protocol Access
 The full protocol is available on [Protocol.io](https://www.protocols.io/private/FB0CE4D429F811F185570A58A9FEAC02).
 
 ## Materials
 Data depository:  
 Wu, Chiao-Yi; Teo, Jia Li; Yap, Michelle Li-Mei; Lin, Hsin-Yu; Yeo, Marilyn Cai Ling; Chia, Phoebe Si Qi; Vinas Guasch, Nestor; Chen, S. H. Annabel. (2021). **"MRI Space Mission: A Stepwise Paediatric MRI Training Protocol for Young Children."** DR-NTU (Data), V2. https://doi.org/10.21979/N9/QCVEGB  
-
-## Poster (OHBM2026)
-[View Full Poster (PDF)](AbstractPoster_MRI_Space_Mission_OHBM2026_.pdf)
 
 ## Contact
 For questions or collaboration, please contact:  
